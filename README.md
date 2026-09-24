@@ -1,7 +1,5 @@
 # Personal Task Manager
 
-A simple Laravel-based application that helps users organize and manage their daily tasks. Users can create tasks, view saved tasks, edit task details, delete tasks, and update their task status.
-
 ## Project Information
 
 **Project Code:** WST21-PM-2026-SF
@@ -11,6 +9,10 @@ A simple Laravel-based application that helps users organize and manage their da
 **Course & Year:** BSIT - 2nd Year
 
 **Database Used:** SQLite
+
+**Project Discription
+
+A simple Laravel-based application that helps users organize and manage their daily tasks. Users can create tasks, view saved tasks, edit task details, delete tasks, and update their task status.
 
 ## Features
 
@@ -87,7 +89,8 @@ Users can delete a task from the system.
 3. Install Laravel dependencies:
 
 ```bash
-composer 
+composer install
+npm install
 
 
 
